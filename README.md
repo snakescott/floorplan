@@ -1,4 +1,4 @@
 # floorplan
 :clap:
 
-What is your workplace floorplan like? Submit a PR for the survey (also interested in thoughts on improving the data model!).
+What is your workplace floorplan like? Submit a PR, or fill out the [Google Form](http://goo.gl/forms/zR3fxJxpcA). Feedback on data model is also welcome!
